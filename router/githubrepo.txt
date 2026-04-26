@@ -1,0 +1,11 @@
+Command:
+curl -s https://api.github.com/repos/shaleekhalil-dev/expressBookReviews
+
+Output:
+{
+  "full_name": "shaleekhalil-dev/expressBookReviews",
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/expressBookReviews"
+  }
+}
